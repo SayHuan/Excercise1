@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btncalc.setOnClickListener(){
+            //fucntion call
             calLoan()
         }
     }
